@@ -1,0 +1,562 @@
+[
+    {
+        "source": "2M",
+        "destination": "Aïn Sebaâ عين السبع",
+        "relation": "Headquarters"
+    },
+    {
+        "source": "2M",
+        "destination": "Bank of Africa (45.3%) Moroccan government (32.5%) Al Mada (12%) / Atlas Capital (10.2%)",
+        "relation": "Owner"
+    },
+    {
+        "source": "Attijariwafa bank",
+        "destination": "Casablanca",
+        "relation": "Headquarters"
+    },
+    {
+        "source": "Attijariwafa bank",
+        "destination": "Mohamed El Kettani",
+        "relation": "Key-People"
+    },
+    {
+        "source": "Comarit",
+        "destination": "Tangier طنجة",
+        "relation": "Headquarters"
+    },
+    {
+        "source": "Comarit",
+        "destination": "Kingdom of Morocco المملكة المغربية ( Arabic ) al-Mamlakah al-Maghribiyah ⵜⴰⴳⵍⴷⵉⵜ ⵏ ⵍⵎⵖⵔⵉⴱ ( Tamazight ) Tageldit n Lmeɣrib",
+        "relation": "Headquarters"
+    },
+    {
+        "source": "Comarit",
+        "destination": "Abdellali Abdelmoula",
+        "relation": "Founder"
+    },
+    {
+        "source": "Akwa Group S.A.",
+        "destination": "Casablanca  Morocco",
+        "relation": "Headquarters"
+    },
+    {
+        "source": "Akwa Group S.A.",
+        "destination": "Aziz Akhannouch",
+        "relation": "Key-People"
+    },
+    {
+        "source": "BMCI",
+        "destination": "26 Place des Nations Unies Casablanca  Morocco",
+        "relation": "Headquarters"
+    },
+    {
+        "source": "BMCI",
+        "destination": "Mourad Cherif Joël Sibrac Hicham Seffa",
+        "relation": "Key-People"
+    },
+    {
+        "source": "BMCI",
+        "destination": "BNP Paribas",
+        "relation": "Owner"
+    },
+    {
+        "source": "Banque Centrale Populaire",
+        "destination": "Casablanca  Morocco",
+        "relation": "Headquarters"
+    },
+    {
+        "source": "Banque Commerciale du Maroc",
+        "destination": "Casablanca",
+        "relation": "Headquarters"
+    },
+    {
+        "source": "Laraki Automobiles SA",
+        "destination": "Casablanca  Morocco",
+        "relation": "Headquarters"
+    },
+    {
+        "source": "Laraki Automobiles SA",
+        "destination": "Abdeslam Laraki  owner",
+        "relation": "Key-People"
+    },
+    {
+        "source": "Air Arabia Maroc",
+        "destination": "Nouaceur Province  Morocco",
+        "relation": "Headquarters"
+    },
+    {
+        "source": "Air Arabia Maroc",
+        "destination": "Laila Mechbal ( COO )",
+        "relation": "Key-People"
+    },
+    {
+        "source": "Agma",
+        "destination": "Casablanca  Morocco",
+        "relation": "Headquarters"
+    },
+    {
+        "source": "Agma",
+        "destination": "Rachida Benabdallah (Managing Director)",
+        "relation": "Key-People"
+    },
+    {
+        "source": "Agma",
+        "destination": "SNI",
+        "relation": "Owner"
+    },
+    {
+        "source": "Casa Air Service",
+        "destination": "Casablanca  Morocco",
+        "relation": "Headquarters"
+    },
+    {
+        "source": "Wafabank",
+        "destination": "Casablanca  Morocco",
+        "relation": "Headquarters"
+    },
+    {
+        "source": "Wafa Assurance",
+        "destination": "Casablanca  Morocco",
+        "relation": "Headquarters"
+    },
+    {
+        "source": "Wafa Assurance",
+        "destination": "Ali Harraj (Managing Director)",
+        "relation": "Key-People"
+    },
+    {
+        "source": "Wafa Assurance",
+        "destination": "SNI",
+        "relation": "Owner"
+    },
+    {
+        "source": "Bank of Africa Group",
+        "destination": "Casablanca  Morocco",
+        "relation": "Headquarters"
+    },
+    {
+        "source": "Bank of Africa Group",
+        "destination": "Othman Benjelloun",
+        "relation": "Key-People"
+    },
+    {
+        "source": "FRS Iberia/Maroc / Ferrysur",
+        "destination": "Tarifa",
+        "relation": "Headquarters"
+    },
+    {
+        "source": "FRS Iberia/Maroc / Ferrysur",
+        "destination": "Kingdom of Spain Reino de España ( Spanish ) 7 other names Aragonese  Reino d'Espanya Asturian  Reinu d'España Catalan  Regne d'Espanya Basque  Espainiako Erresuma Galician  Reino de España Occitan  Reiaume d'Espanha Valencian  Regne d'Espanya",
+        "relation": "Headquarters"
+    },
+    {
+        "source": "Somaca",
+        "destination": "Aïn Sebaâ عين السبع",
+        "relation": "Headquarters"
+    },
+    {
+        "source": "Somaca",
+        "destination": "Fabrice Delecroix (Director)",
+        "relation": "Key-People"
+    },
+    {
+        "source": "Somaca",
+        "destination": "Renault S.A.S. (91%) Renault Maroc (8%) Private shareholders (1%)",
+        "relation": "Owner"
+    },
+    {
+        "source": "Al Mada",
+        "destination": "60 rue d'Alger 20000 Casablanca  Morocco",
+        "relation": "Headquarters"
+    },
+    {
+        "source": "Al Mada",
+        "destination": "Mounir Majidi",
+        "relation": "Key-People"
+    },
+    {
+        "source": "Al Mada",
+        "destination": "Mohammed VI محمد السادس",
+        "relation": "Key-People"
+    },
+    {
+        "source": "Al Mada",
+        "destination": "Mohammed VI Members of the Alaouite royal family",
+        "relation": "Owner"
+    },
+    {
+        "source": "Jet4you",
+        "destination": "Casablanca  Morocco",
+        "relation": "Headquarters"
+    },
+    {
+        "source": "Jet4you",
+        "destination": "Jawad Ziyat ( CEO )",
+        "relation": "Key-People"
+    },
+    {
+        "source": "Sonasid",
+        "destination": "Casablanca  Morocco",
+        "relation": "Headquarters"
+    },
+    {
+        "source": "Sonasid",
+        "destination": "Said El Hadi (chairman of the board) Ismail Akalay (CEO)",
+        "relation": "Key-People"
+    },
+    {
+        "source": "Sonasid",
+        "destination": "SNI ArcelorMittal",
+        "relation": "Owner"
+    },
+    {
+        "source": "Société Automobiles Ménara",
+        "destination": "Aïn Sebaâ  Casablanca  Morocco",
+        "relation": "Headquarters"
+    },
+    {
+        "source": "Société Automobiles Ménara",
+        "destination": "Gilbert Guzzo",
+        "relation": "Founder"
+    },
+    {
+        "source": "Inwi",
+        "destination": "Casablanca  Morocco",
+        "relation": "Headquarters"
+    },
+    {
+        "source": "Inwi",
+        "destination": "Nadia Fassi Fehri Chief Executive Officer (2015)",
+        "relation": "Key-People"
+    },
+    {
+        "source": "Royal Air Maroc Cargo الخطوط الملكية المغربية للشحن",
+        "destination": "Casablanca  Morocco",
+        "relation": "Headquarters"
+    },
+    {
+        "source": "Siger",
+        "destination": "Rabat الرباط",
+        "relation": "Headquarters"
+    },
+    {
+        "source": "Siger",
+        "destination": "Mounir Majidi (managing director)",
+        "relation": "Key-People"
+    },
+    {
+        "source": "Siger",
+        "destination": "Mohammed VI",
+        "relation": "Owner"
+    },
+    {
+        "source": "Royal Air Maroc Express",
+        "destination": "Casablanca  Morocco",
+        "relation": "Headquarters"
+    },
+    {
+        "source": "BNP Paribas",
+        "destination": "Arrondissement",
+        "relation": "Headquarters"
+    },
+    {
+        "source": "BNP Paribas",
+        "destination": "Paris",
+        "relation": "Headquarters"
+    },
+    {
+        "source": "BNP Paribas",
+        "destination": "French Republic République française ( French )",
+        "relation": "Headquarters"
+    },
+    {
+        "source": "BNP Paribas",
+        "destination": "Jean Lemierre",
+        "relation": "Key-People"
+    },
+    {
+        "source": "BNP Paribas",
+        "destination": "Jean-Laurent Bonnafé",
+        "relation": "Key-People"
+    },
+    {
+        "source": "Morocco Post",
+        "destination": "Rabat",
+        "relation": "Headquarters"
+    },
+    {
+        "source": "Royal Air Maroc الخطوط الملكية المغربية",
+        "destination": "CasablancaAnfa Airport",
+        "relation": "Headquarters"
+    },
+    {
+        "source": "Royal Air Maroc الخطوط الملكية المغربية",
+        "destination": "Abdelhamid Addou ( CEO )",
+        "relation": "Key-People"
+    },
+    {
+        "source": "ONA Group",
+        "destination": "Casablanca  Morocco",
+        "relation": "Headquarters"
+    },
+    {
+        "source": "ONA Group",
+        "destination": "Jean Epinat",
+        "relation": "Founder"
+    },
+    {
+        "source": "Office National des Chemins de Fer du Maroc (ONCF)",
+        "destination": "8 rue Abderrahmane El Ghafiki Rabat - Agdal",
+        "relation": "Headquarters"
+    },
+    {
+        "source": "OCP Group",
+        "destination": "Casablanca  Morocco",
+        "relation": "Headquarters"
+    },
+    {
+        "source": "OCP Group",
+        "destination": "Mostafa Terrab",
+        "relation": "Key-People"
+    },
+    {
+        "source": "OCP Group",
+        "destination": "Kingdom of Morocco (94.12%) Banque Populaire (5.88%)",
+        "relation": "Owner"
+    },
+    {
+        "source": "Nemotek Technologie",
+        "destination": "Morocco",
+        "relation": "Headquarters"
+    },
+    {
+        "source": "Nemotek Technologie",
+        "destination": "CEO José da Costa Gatta",
+        "relation": "Key-People"
+    },
+    {
+        "source": "Nareva Holding",
+        "destination": "Casablanca  Morocco",
+        "relation": "Headquarters"
+    },
+    {
+        "source": "Nareva Holding",
+        "destination": "Mostafa Terrab (Chairman)",
+        "relation": "Key-People"
+    },
+    {
+        "source": "Nareva Holding",
+        "destination": "SNI (100%)",
+        "relation": "Owner"
+    },
+    {
+        "source": "Mondair",
+        "destination": "Agadir أكادير ( Arabic ) ⴰⴳⴰⴷⵉⵔ ( Tachelhit )",
+        "relation": "Headquarters"
+    },
+    {
+        "source": "ONA Group",
+        "destination": "Casablanca  Morocco",
+        "relation": "Headquarters"
+    },
+    {
+        "source": "ONA Group",
+        "destination": "Jean Epinat",
+        "relation": "Founder"
+    },
+    {
+        "source": "ArcelorMittal S.A.",
+        "destination": "Luxembourg Lëtzebuerg ( Luxembourgish ) Luxembourg ( French ) Luxemburg ( German )",
+        "relation": "Headquarters"
+    },
+    {
+        "source": "ArcelorMittal S.A.",
+        "destination": "Grand Duchy of Luxembourg Groussherzogtum Lëtzebuerg  ( Luxembourgish ) Grand-Duché de Luxembourg  ( French ) Großherzogtum Luxemburg  ( German )",
+        "relation": "Headquarters"
+    },
+    {
+        "source": "ArcelorMittal S.A.",
+        "destination": "Lakshmi Mittal",
+        "relation": "Key-People"
+    },
+    {
+        "source": "ArcelorMittal S.A.",
+        "destination": "Aditya Mittal",
+        "relation": "Key-People"
+    },
+    {
+        "source": "ArcelorMittal S.A.",
+        "destination": "Lakshmi Mittal (37.4%)",
+        "relation": "Owner"
+    },
+    {
+        "source": "Mobile Telecommunications Company K.S.C.P.",
+        "destination": "Kuwait City مدينة الكويت Madinat Al-Kuwayt",
+        "relation": "Headquarters"
+    },
+    {
+        "source": "Mobile Telecommunications Company K.S.C.P.",
+        "destination": "Bader Nasser Al-Kharafi",
+        "relation": "Key-People"
+    },
+    {
+        "source": "Renault S.A.",
+        "destination": "Boulogne-Billancourt",
+        "relation": "Headquarters"
+    },
+    {
+        "source": "Renault S.A.",
+        "destination": "Île-de-France",
+        "relation": "Headquarters"
+    },
+    {
+        "source": "Renault S.A.",
+        "destination": "Luca de Meo",
+        "relation": "Key-People"
+    },
+    {
+        "source": "Renault S.A.",
+        "destination": "Jean-Dominique Senard",
+        "relation": "Key-People"
+    },
+    {
+        "source": "Banque de Paris et des Pays-Bas S.A.",
+        "destination": "Paris  France",
+        "relation": "Headquarters"
+    },
+    {
+        "source": "Banque de Paris et des Pays-Bas S.A.",
+        "destination": "Henri Cernuschi",
+        "relation": "Key-People"
+    },
+    {
+        "source": "Banque de Paris et des Pays-Bas S.A.",
+        "destination": "Eugène Goüin",
+        "relation": "Key-People"
+    },
+    {
+        "source": "Comptoir national d'escompte de Paris",
+        "destination": "Paris  France",
+        "relation": "Headquarters"
+    },
+    {
+        "source": "BNP Paribas Fortis",
+        "destination": "Brussels Bruxelles ( French ) Brussel ( Dutch )",
+        "relation": "Headquarters"
+    },
+    {
+        "source": "BNP Paribas Fortis",
+        "destination": "Kingdom of Belgium Koninkrijk België ( Dutch ) Royaume de Belgique ( French ) Königreich Belgien ( German )",
+        "relation": "Headquarters"
+    },
+    {
+        "source": "BNP Paribas Fortis",
+        "destination": "Michael Anseeuw  CEO",
+        "relation": "Key-People"
+    },
+    {
+        "source": "Mena Media Consulting",
+        "destination": "Rabat  Morocco",
+        "relation": "Headquarters"
+    },
+    {
+        "source": "Mena Media Consulting",
+        "destination": "Fouad Ali El Himma فؤاد عالي الهمة",
+        "relation": "Key-People"
+    },
+    {
+        "source": "Mena Media Consulting",
+        "destination": "Karim Bouzida",
+        "relation": "Key-People"
+    },
+    {
+        "source": "Mena Media Consulting",
+        "destination": "Othman Al Omeir",
+        "relation": "Key-People"
+    },
+    {
+        "source": "Mena Media Consulting",
+        "destination": "Fouad Ali El Himma",
+        "relation": "Owner"
+    },
+    {
+        "source": "Orange Maroc",
+        "destination": "Morocco",
+        "relation": "Headquarters"
+    },
+    {
+        "source": "Maroc Telecom",
+        "destination": "Rabat  Morocco",
+        "relation": "Headquarters"
+    },
+    {
+        "source": "Maroc Telecom",
+        "destination": "Abdeslam Ahizoune",
+        "relation": "Key-People"
+    },
+    {
+        "source": "Med Airlines",
+        "destination": "Casablanca  Morocco",
+        "relation": "Headquarters"
+    },
+    {
+        "source": "Société d'Exploitation des Ports",
+        "destination": "Casablanca",
+        "relation": "Headquarters"
+    },
+    {
+        "source": "Société d'Exploitation des Ports",
+        "destination": "Mohammed ABDELJALIL (chairman executive board) Mr Abdelaziz BOUAMRANI The minister of Equipment and Transport (chairman supervisory board).",
+        "relation": "Key-People"
+    },
+    {
+        "source": "Les Domaines Agricoles",
+        "destination": "5 Route d'Azemmour Casablanca 21000 - BP 15634 Morocco",
+        "relation": "Headquarters"
+    },
+    {
+        "source": "Les Domaines Agricoles",
+        "destination": "Hassan II الحسن الثاني",
+        "relation": "Key-People"
+    },
+    {
+        "source": "Les Domaines Agricoles",
+        "destination": "Siger",
+        "relation": "Owner"
+    },
+    {
+        "source": "FerriMaroc",
+        "destination": "Nador الناظور",
+        "relation": "Headquarters"
+    },
+    {
+        "source": "Eco-Médias",
+        "destination": "Casablanca  Morocco",
+        "relation": "Headquarters"
+    },
+    {
+        "source": "Eco-Médias",
+        "destination": "Marie-Thérèse Bourrut Abdelmounaïm Dilami",
+        "relation": "Key-People"
+    },
+    {
+        "source": "Eco-Médias",
+        "destination": "Marie-Thérèse Bourrut Abdelmounaïm Dilami SNI ( Mohammed VI ) Jean Luc Martinet Nader Mawlawi",
+        "relation": "Owner"
+    },
+    {
+        "source": "CTM",
+        "destination": "Casablanca",
+        "relation": "Headquarters"
+    },
+    {
+        "source": "Comanav",
+        "destination": "Casablanca  Morocco",
+        "relation": "Headquarters"
+    },
+    {
+        "source": "Comanav",
+        "destination": "Taoufik Ibrahimi (PDG)",
+        "relation": "Key-People"
+    }
+]
